@@ -84,7 +84,7 @@ for epoch in range(1, nb_epoch+1):
 				# Loss Criterion 
 				loss =criterion(output,target)
 				
-				# Average of the error of the movies that don't have zero ratings
+				# Average the error of the movies that don't have zero ratings
 				mean_corrector=nb_movies/float(torch.sum(target.data>0)+1e-10)
 				
 				# Direction of the backpropagation 
