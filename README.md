@@ -5,6 +5,7 @@
 * Auto Encoder Deep Learning A-Z Udemy : http://bit.ly/2iJJ4kj
 
 # How to make a movie recommender with a stack autoEncoder 
+* Building an AutoENcoder, Deep Learning Udemy A-Z : http://bit.ly/2gPqG5k
 
 ```python
 ### Part 1 : Archirecture of the AutoEncoder 
